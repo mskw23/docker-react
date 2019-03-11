@@ -1,6 +1,6 @@
 sudo: required
 node_js:
-  - "11.10.1"
+  - "10.6.0"
 services:
   - docker
 
